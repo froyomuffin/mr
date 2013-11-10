@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Flickr</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Flickr" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M17.009,34.015 C26.401,34.015 34.017,26.4 34.017,17.007 C34.017,7.614 26.401,0 17.009,0 C7.615,0 0,7.614 0,17.007 C0,26.4 7.615,34.015 17.009,34.015" id="Fill-189" stroke="#E4E4E4" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M25.493,16.746 C25.493,18.815 23.818,20.493 21.748,20.493 C19.676,20.493 18,18.815 18,16.746 C18,14.678 19.676,13 21.748,13 C23.818,13 25.493,14.678 25.493,16.746" id="Fill-190" fill="#D4468B" sketch:type="MSShapeGroup"></path>
+            <path d="M15.492,16.746 C15.492,18.815 13.816,20.493 11.744,20.493 C9.675,20.493 8,18.815 8,16.746 C8,14.678 9.675,13 11.744,13 C13.816,13 15.492,14.678 15.492,16.746" id="Fill-191" fill="#3A67A3" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
